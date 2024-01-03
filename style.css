@@ -63,12 +63,12 @@ ul li{
     background-size: cover;
 }
 .img-1-1{
-    background-image: url("./img/1-1.jpg");
+    background-image: url("./img/road.jpg");
     background-size: contain;
     background-repeat: repeat-x;
 }
 .img-1-2{
-    background-image: url("./img/1-2.jpg");
+    background-image: url("./img/sun.jpg");
     background-size: cover;
 }
 .img-1-3{
