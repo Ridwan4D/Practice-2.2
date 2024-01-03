@@ -63,7 +63,7 @@ ul li{
     background-size: cover;
 }
 .img-1-1{
-    background-image: url("./img/1-1.jpg");
+    background-image: url("./img/1.avif");
     background-size: contain;
     background-repeat: repeat-x;
 }
