@@ -50,7 +50,7 @@ ul li{
     border-radius: 10px;
     background-repeat: no-repeat;
     display: inline-block;
-    transition: all ease .3s;
+    transition: all ease .1s;
 }
 .div:hover{
     height: 170px;
