@@ -58,7 +58,7 @@ ul li{
 .div:hover{
     height: 185px;
     width: 280px;
-    border-bottom:2px solid rgb(79, 20, 173);
+    border-bottom:2px solid rgb(76, 32, 148);
     box-shadow: 4px 4px 7px rgb(80, 80, 80);
 }
 .img-1{
